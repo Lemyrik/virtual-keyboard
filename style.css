@@ -1,0 +1,8 @@
+#inputArea {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    white-space: normal;
+    width: 70%;
+    height: 200px;
+}
